@@ -1,0 +1,16 @@
+{
+  "name": "guided-api-iii",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/BDesselle/guided-api-iii.git",
+  "author": "Brandon Desselle <desselle.brandon2@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "knex": "^0.19.3",
+    "sqlite3": "^4.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  }
+}
