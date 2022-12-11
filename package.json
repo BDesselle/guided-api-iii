@@ -6,7 +6,7 @@
   "author": "Brandon Desselle <desselle.brandon2@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "knex": "^0.19.3",
     "sqlite3": "^4.1.0"
   },
